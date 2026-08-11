@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "CISSP Preparation by Prakash",
+  "description": "Focused CISSP preparation covering the eight CISSP domains, CISSP mindset, scenario-based learning, and exam strategy.",
+  "provider": {
+    "@type": "Person",
+    "name": "Prakash",
+    "description": "CISSP-certified cybersecurity professional with 6+ years of cybersecurity experience across IT and OT environments."
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "99",
+    "priceCurrency": "USD",
+    "category": "Training"
+  }
+}
